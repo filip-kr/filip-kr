@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋 Zdravo 👋 Привет
+
+- Aspiring webdev, currently learning PHP
 
 <!--
 **filip-kr/filip-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
