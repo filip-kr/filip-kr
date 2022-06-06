@@ -1,4 +1,3 @@
-## Hello | Zdravo | Привет 👋
 ### Web developer in the making
 ---
 - 🌱 I’m currently learning PHP
