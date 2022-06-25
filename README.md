@@ -1,7 +1,8 @@
 ## Zdravo! / Hello! / Привет!
 ### Web developer in the making
 ---
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP and JavaScript:
+  - https://www.freecodecamp.org/filip-kr
 - 📫 How to reach me: 
   - e-mail: f.krnja@gmail.com
   - LinkedIn: https://www.linkedin.com/in/filipkr/
